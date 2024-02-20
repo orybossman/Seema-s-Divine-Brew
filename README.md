@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,6 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            background-image: url('your-background-image.jpg'); /* Replace 'your-background-image.jpg' with the actual path to your background image */
             background-size: cover; /* Adjusts the background image size */
             background-repeat: no-repeat; /* Prevents the background image from repeating */
             background-position: center; /* Centers the background image */
@@ -54,7 +54,7 @@
         }
     </style>
 </head>
-<body style="background-image: url('https://github.com/yourusername/your-repository/raw/main/background.jpg');">
+<body>
     <header>
         <h1>Welcome to Seema's Divine Brew</h1>
         <p>Your Source for Fortune Coffee Telling</p>
@@ -117,7 +117,6 @@
     </footer>
 </body>
 </html>
-
 
 
 
