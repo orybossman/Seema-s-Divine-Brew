@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,8 +10,8 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image: url('your-background-image.jpg'); /* Replace 'your-background-image.jpg' with the actual path to your background image */
-            background-size: cover; /* Adjusts the background image size */
+            background-image: url('path/to/your-background-image.jpg'); /* Replace with the actual path */
+            background-size: cover; /* Adjusts the background image size to cover the entire viewport */
             background-repeat: no-repeat; /* Prevents the background image from repeating */
             background-position: center; /* Centers the background image */
             color: #fff; /* Set text color to white for better visibility on dark background */
@@ -70,7 +71,7 @@
 
     <section id="about">
         <h2>About Us:</h2>
-        <p>At Seema's Divine Brew, Seema believes in the power of coffee to reveal the secrets of the future. Using ancient techniques, she interprets the patterns in your coffee cup to provide insightful readings.</p>
+        <p>At Fortune Coffee Telling, we believe in the power of coffee to reveal the secrets of the future. Using ancient techniques, our experts interpret the patterns in your coffee cup to provide insightful readings.</p>
          <p>Experience the magic of coffee fortune telling for just $40!</p>
     </section>
 
@@ -86,16 +87,10 @@
     <section id="testimonials">
         <h2>Testimonials:</h2>
         <div class="testimonial">
-            <p>"The predictions were incredibly accurate! I was amazed by Seema's insights." - Priya Sharma, Mumbai</p>
+            <p>"The predictions were incredibly accurate! I was amazed by their insights." - Priya Sharma, Mumbai</p>
         </div>
         <div class="testimonial">
-            <p>"I never believed in fortune telling until I experienced Seema's coffee readings. Highly recommended!" - Ali Reza, Tehran</p>
-        </div>
-        <div class="testimonial">
-            <p>"Seema's Divine Brew is truly exceptional. I couldn't believe how accurate my reading was!" - Faradoon, Belgaum</p>
-        </div>
-        <div class="testimonial">
-            <p>"I'm so grateful for Seema's guidance. Her readings have provided me with clarity and insight." - Mernosh, Devlali</p>
+            <p>"I never believed in fortune telling until I experienced their coffee readings. Highly recommended!" - Ali Reza, Tehran</p>
         </div>
     </section>
 
@@ -106,7 +101,7 @@
 
     <section id="contact">
         <h2>Contact Us:</h2>
-        <p>Ready to uncover your destiny? Contact Seema today to schedule your reading!</p>
+        <p>Ready to uncover your destiny? Contact us today to schedule your reading!</p>
         <p>Email: <a href="mailto:nosyiranii@gmail.com" style="color: #fff;">nosyiranii@gmail.com</a></p>
         <p>Phone: <a href="tel:+919819375309" style="color: #fff;">+91 9819375309</a></p>
     </section>
