@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -46,12 +47,17 @@
             margin: 0;
             font-style: italic;
         }
+        #gallery h2,
+        #contact h2,
+        #contact p {
+            color: #000; /* Set text color to black */
+        }
     </style>
 </head>
 <body>
     <header>
         <h1>Welcome to Seema's Divine Brew</h1>
-    <p>Your Source for Fortune Coffee Telling</p>
+        <p>Your Source for Fortune Coffee Telling</p>
     </header>
 
     <nav>
