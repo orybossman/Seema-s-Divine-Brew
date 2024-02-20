@@ -48,7 +48,6 @@
             font-style: italic;
         }
     </style>
-</head>
 <body>
     <header>
         <h1>Seema's Divine Brew</h1>
