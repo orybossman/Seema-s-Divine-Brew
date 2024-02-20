@@ -4,7 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Seema's Divine Brew</title>
     <style>
-        /* Inline CSS for demonstration purposes */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
