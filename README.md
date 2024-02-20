@@ -1,16 +1,18 @@
-# Seema-s-Divine-Brew
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Seema's Divine Brew</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to an external CSS file for better organization -->
     <style>
         /* Inline CSS for demonstration purposes */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            background-image: url('your-background-image.jpg'); /* Replace 'your-background-image.jpg' with the actual path to your background image */
+            background-size: cover; /* Adjusts the background image size */
+            background-repeat: no-repeat; /* Prevents the background image from repeating */
         }
         header {
             background-color: #ffdb58; /* Golden yellow */
@@ -101,3 +103,4 @@
     </footer>
 </body>
 </html>
+
