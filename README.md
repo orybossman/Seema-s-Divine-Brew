@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,8 +10,9 @@
             margin: 0;
             padding: 0;
             background-image: url('your-background-image.jpg'); /* Replace 'your-background-image.jpg' with the actual path to your background image */
-            background-size: 100% auto; /* Adjusts the background image size to cover the entire width of the body while maintaining aspect ratio */
+            background-size: cover; /* Adjusts the background image size */
             background-repeat: no-repeat; /* Prevents the background image from repeating */
+            background-position: center; /* Centers the background image */
             color: #fff; /* Set text color to white for better visibility on dark background */
         }
         header {
@@ -100,15 +100,6 @@
 
     <section id="contact">
         <h2>Contact Us:</h2>
-        <p>Ready to uncover your destiny? Contact us today to schedule your reading!</p>
-        <p>Email: <a href="mailto:nosyiranii@gmail.com">nosyiranii@gmail.com</a></p>
-        <p>Phone: <a href="tel:+919819375309">+91 9819375309</a></p>
-    </section>
+        <p>Ready to uncover your destiny? Contact us today to schedule your
 
-    <footer style="background-color: #333; color: #fff; text-align: center; padding: 10px;">
-        <p>Follow Us:</p>
-        <!-- Add social media icons linking to Seema's profiles -->
-    </footer>
-</body>
-</html>
 
