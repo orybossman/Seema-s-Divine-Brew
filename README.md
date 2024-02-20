@@ -10,8 +10,9 @@
             margin: 0;
             padding: 0;
             background-image: url('your-background-image.jpg'); /* Replace 'your-background-image.jpg' with the actual path to your background image */
-            background-size: contain; /* Adjusts the background image size to fit within the body */
+            background-size: cover; /* Adjusts the background image size */
             background-repeat: no-repeat; /* Prevents the background image from repeating */
+            background-position: center; /* Centers the background image */
             color: #fff; /* Set text color to white for better visibility on dark background */
         }
         header {
@@ -48,9 +49,8 @@
         }
         #gallery h2,
         #contact h2,
-        #contact p,
-        #contact p a {
-            color: #fff; /* Set text color to white */
+        #contact p {
+            color: #000; /* Set text color to black */
         }
     </style>
 </head>
@@ -100,14 +100,17 @@
 
     <section id="contact">
         <h2>Contact Us:</h2>
-        <p style="color: #fff;">Ready to uncover your destiny? Contact us today to schedule your reading!</p>
-        <p>Email: <a href="mailto:nosyiranii@gmail.com" style="color: #fff;">nosyiranii@gmail.com</a></p>
-        <p>Phone: <a href="tel:+919819375309" style="color: #fff;">+91 9819375309</a></p>
+        <p>Ready to uncover your destiny? Contact us today to schedule your reading!</p>
+        <p>Email: <a href="mailto:nosyiranii@gmail.com">nosyiranii@gmail.com</a></p>
+        <p>Phone: <a href="tel:+919819375309">+91 9819375309</a></p>
     </section>
 
     <footer style="background-color: #333; color: #fff; text-align: center; padding: 10px;">
         <p>Follow Us:</p>
         <!-- Add social media icons linking to Seema's profiles -->
+    </footer>
+</body>
+</html>
     </footer>
 </body>
 </html>
