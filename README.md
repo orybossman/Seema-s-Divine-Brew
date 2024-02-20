@@ -36,10 +36,11 @@
             color: #fff; /* Set text color to white for better visibility on dark background */
         }
         .testimonial {
-            background-color: #f5f5f5; /* Light gray */
+            background-color: #fff; /* White background */
             border-left: 4px solid #ffdb58; /* Golden yellow */
             padding: 10px;
             margin-bottom: 20px;
+            color: #000; /* Set text color to black for better visibility on light background */
         }
         .testimonial p {
             margin: 0;
@@ -95,7 +96,7 @@
         <h2>Contact Us:</h2>
         <p>Ready to uncover your destiny? Contact us today to schedule your reading!</p>
         <p>Email: <a href="mailto:nosyiranii@gmail.com">nosyiranii@gmail.com</a></p>
-        <p>Phone: +91 9819375309</p>
+        <p>Phone: <a href="tel:+919819375309">+91 9819375309</a></p>
     </section>
 
     <footer style="background-color: #333; color: #fff; text-align: center; padding: 10px;">
