@@ -50,7 +50,7 @@
         #gallery h2,
         #contact h2,
         #contact p {
-            color: #000; /* Set text color to black */
+            color: #000; /* Set text color to white */
         }
     </style>
 </head>
