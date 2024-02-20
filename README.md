@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +10,7 @@
             margin: 0;
             padding: 0;
             background-image: url('path/to/your-background-image.jpg'); /* Replace with the actual path */
-            background-size: cover; /* Adjusts the background image size to cover the entire viewport */
+            background-size: cover; /* Adjusts the background image size */
             background-repeat: no-repeat; /* Prevents the background image from repeating */
             background-position: center; /* Centers the background image */
             color: #fff; /* Set text color to white for better visibility on dark background */
