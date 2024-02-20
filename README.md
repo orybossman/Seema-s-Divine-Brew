@@ -100,6 +100,16 @@
 
     <section id="contact">
         <h2>Contact Us:</h2>
-        <p>Ready to uncover your destiny? Contact us today to schedule your
+        <p>Ready to uncover your destiny? Contact us today to schedule your reading!</p>
+        <p>Email: <a href="mailto:nosyiranii@gmail.com">nosyiranii@gmail.com</a></p>
+        <p>Phone: <a href="tel:+919819375309">+91 9819375309</a></p>
+    </section>
+
+    <footer style="background-color: #333; color: #fff; text-align: center; padding: 10px;">
+        <p>Follow Us:</p>
+        <!-- Add social media icons linking to Seema's profiles -->
+    </footer>
+</body>
+</html>
 
 
