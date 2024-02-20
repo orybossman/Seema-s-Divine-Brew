@@ -91,6 +91,12 @@
         <div class="testimonial">
             <p>"I never believed in fortune telling until I experienced Seema's coffee readings. Highly recommended!" - Ali Reza, Tehran</p>
         </div>
+        <div class="testimonial">
+            <p>"Seema's Divine Brew is truly exceptional. I couldn't believe how accurate my reading was!" - Faradoon, Belgaum</p>
+        </div>
+        <div class="testimonial">
+            <p>"I'm so grateful for Seema's guidance. Her readings have provided me with clarity and insight." - Mernosh, Devlali</p>
+        </div>
     </section>
 
     <section id="gallery">
