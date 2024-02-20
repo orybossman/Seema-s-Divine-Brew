@@ -1,5 +1,4 @@
 # Seema-s-Divine-Brew
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -61,7 +60,7 @@
 
     <section id="about">
         <h2>About Us:</h2>
-        <p>At Seema's Divine Brew, we believe in the power of coffee to reveal the secrets of the future. Our expert fortune tellers use ancient techniques to interpret the patterns in your coffee cup and provide insightful readings.</p>
+        <p>At Seema's Divine Brew, Seema believes in the power of coffee to reveal the secrets of the future. Using ancient techniques, she interprets the patterns in your coffee cup to provide insightful readings.</p>
     </section>
 
     <section id="services">
@@ -92,7 +91,7 @@
         <h2>Contact Us:</h2>
         <p>Ready to uncover your destiny? Contact us today to schedule your reading!</p>
         <p>Email: <a href="mailto:nosyiranii@gmail.com">nosyiranii@gmail.com</a></p>
-        <p>Phone: [Insert phone number here]</p>
+        <p>Phone: +91 9819375309</p>
     </section>
 
     <footer style="background-color: #333; color: #fff; text-align: center; padding: 10px;">
