@@ -50,8 +50,8 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Fortune Coffee Telling</h1>
-        <p>Your Source for Coffee Fortune Readings</p>
+        <h1>Welcome to Seema's Divine Brew</h1>
+    <p>Your Source for Fortune Coffee Telling</p>
     </header>
 
     <nav>
