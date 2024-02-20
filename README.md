@@ -61,6 +61,7 @@
     <section id="about">
         <h2>About Us:</h2>
         <p>At Seema's Divine Brew, Seema believes in the power of coffee to reveal the secrets of the future. Using ancient techniques, she interprets the patterns in your coffee cup to provide insightful readings.</p>
+         <p>Experience the magic of coffee fortune telling for just $40!</p>
     </section>
 
     <section id="services">
