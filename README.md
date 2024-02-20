@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,8 +10,7 @@
             margin: 0;
             padding: 0;
             background-image: url('your-background-image.jpg'); /* Replace 'your-background-image.jpg' with the actual path to your background image */
-            background-size: contain; /* Adjusts the background image size to cover the entire body */
-            background-position: center; /* Centers the background image */
+            background-size: contain; /* Adjusts the background image size to fit within the body */
             background-repeat: no-repeat; /* Prevents the background image from repeating */
             color: #fff; /* Set text color to white for better visibility on dark background */
         }
@@ -50,9 +48,8 @@
         }
         #gallery h2,
         #contact h2,
-        #contact p,
-        #contact a {
-            color: #fff; /* Set text color to white */
+        #contact p {
+            color: #000; /* Set text color to black */
         }
     </style>
 </head>
