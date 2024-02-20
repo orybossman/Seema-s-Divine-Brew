@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,12 +13,13 @@
             background-image: url('your-background-image.jpg'); /* Replace 'your-background-image.jpg' with the actual path to your background image */
             background-size: cover; /* Adjusts the background image size */
             background-repeat: no-repeat; /* Prevents the background image from repeating */
+            color: #fff; /* Set text color to white for better visibility on dark background */
         }
         header {
             background-color: #ffdb58; /* Golden yellow */
             padding: 20px;
             text-align: center;
-            color: #fff; /* White text */
+            color: #333; /* Set header text color to dark for better visibility on light background */
         }
         nav {
             background-color: #333; /* Dark gray */
@@ -102,4 +104,5 @@
     </footer>
 </body>
 </html>
+
 
