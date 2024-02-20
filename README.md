@@ -10,8 +10,8 @@
             margin: 0;
             padding: 0;
             background-image: url('your-background-image.jpg'); /* Replace 'your-background-image.jpg' with the actual path to your background image */
-            background-size: contain; /* Adjusts the background image size to fit within the body */
-            background-repeat: no-repeat; /* Prevents the background image from repeating */
+            background-size: cover; /* Adjusts the background image size to cover the entire body */
+            background-position: center; /* Centers the background image */
             color: #fff; /* Set text color to white for better visibility on dark background */
         }
         header {
@@ -110,3 +110,4 @@
     </footer>
 </body>
 </html>
+
