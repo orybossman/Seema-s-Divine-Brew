@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -48,10 +47,11 @@
             font-style: italic;
         }
     </style>
+</head>
 <body>
     <header>
-        <h1>Seema's Divine Brew</h1>
-        <p>Welcome to Seema's Divine Brew - Your Source for Fortune Coffee Telling</p>
+        <h1>Welcome to Fortune Coffee Telling</h1>
+        <p>Your Source for Coffee Fortune Readings</p>
     </header>
 
     <nav>
@@ -64,7 +64,7 @@
 
     <section id="about">
         <h2>About Us:</h2>
-        <p>At Seema's Divine Brew, Seema believes in the power of coffee to reveal the secrets of the future. Using ancient techniques, she interprets the patterns in your coffee cup to provide insightful readings.</p>
+        <p>At Fortune Coffee Telling, we believe in the power of coffee to reveal the secrets of the future. Using ancient techniques, our experts interpret the patterns in your coffee cup to provide insightful readings.</p>
          <p>Experience the magic of coffee fortune telling for just $40!</p>
     </section>
 
@@ -80,10 +80,10 @@
     <section id="testimonials">
         <h2>Testimonials:</h2>
         <div class="testimonial">
-            <p>"Seema's predictions were incredibly accurate! I was amazed by her insights." - Priya Sharma, Mumbai</p>
+            <p>"The predictions were incredibly accurate! I was amazed by their insights." - Priya Sharma, Mumbai</p>
         </div>
         <div class="testimonial">
-            <p>"I never believed in fortune telling until I experienced Seema's coffee readings. Highly recommended!" - Ali Reza, Tehran</p>
+            <p>"I never believed in fortune telling until I experienced their coffee readings. Highly recommended!" - Ali Reza, Tehran</p>
         </div>
     </section>
 
