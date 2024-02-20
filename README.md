@@ -70,7 +70,7 @@
 
     <section id="about">
         <h2>About Us:</h2>
-        <p>At Fortune Coffee Telling, we believe in the power of coffee to reveal the secrets of the future. Using ancient techniques, our experts interpret the patterns in your coffee cup to provide insightful readings.</p>
+        <p>At Seema's Divine Brew, Seema believes in the power of coffee to reveal the secrets of the future. Using ancient techniques, she interprets the patterns in your coffee cup to provide insightful readings.</p>
          <p>Experience the magic of coffee fortune telling for just $40!</p>
     </section>
 
@@ -86,10 +86,10 @@
     <section id="testimonials">
         <h2>Testimonials:</h2>
         <div class="testimonial">
-            <p>"The predictions were incredibly accurate! I was amazed by their insights." - Priya Sharma, Mumbai</p>
+            <p>"The predictions were incredibly accurate! I was amazed by Seema's insights." - Priya Sharma, Mumbai</p>
         </div>
         <div class="testimonial">
-            <p>"I never believed in fortune telling until I experienced their coffee readings. Highly recommended!" - Ali Reza, Tehran</p>
+            <p>"I never believed in fortune telling until I experienced Seema's coffee readings. Highly recommended!" - Ali Reza, Tehran</p>
         </div>
     </section>
 
@@ -100,7 +100,7 @@
 
     <section id="contact">
         <h2>Contact Us:</h2>
-        <p>Ready to uncover your destiny? Contact us today to schedule your reading!</p>
+        <p>Ready to uncover your destiny? Contact Seema today to schedule your reading!</p>
         <p>Email: <a href="mailto:nosyiranii@gmail.com" style="color: #fff;">nosyiranii@gmail.com</a></p>
         <p>Phone: <a href="tel:+919819375309" style="color: #fff;">+91 9819375309</a></p>
     </section>
