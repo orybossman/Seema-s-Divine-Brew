@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -34,6 +33,7 @@
         }
         section {
             padding: 20px;
+            color: #fff; /* Set text color to white for better visibility on dark background */
         }
         .testimonial {
             background-color: #f5f5f5; /* Light gray */
@@ -104,5 +104,3 @@
     </footer>
 </body>
 </html>
-
-
